@@ -1,0 +1,33 @@
+body
+{
+    background-size: cover;
+}
+.heading{
+    font-size: 28px;
+    width: 100%;
+    margin: 0px;
+}
+#start{
+    font-size: 18px;
+}
+#status, #number_of_objects #start
+{
+    font-size: 18px;
+}
+.copy_right_footer{
+    text-align:center;
+    position: fixed;
+    color: rgb(71, 9, 116);
+    width: 100%;
+    background-color: rgb(9, 231, 131);
+    line-height: 4;
+    bottom: 0;
+    font-size: 17px;
+}
+canvas{
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rebeccapurple;
+}
+
